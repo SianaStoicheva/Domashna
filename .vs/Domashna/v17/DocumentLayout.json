@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\Siana\\Class9a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E043B179-7DF6-467E-B273-118DA0159E9C}|Statistika\\Statistika.csproj|c:\\users\\lenovo\\desktop\\siana\\class9a\\statistika\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E043B179-7DF6-467E-B273-118DA0159E9C}|Statistika\\Statistika.csproj|solutionrelative:statistika\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E043B179-7DF6-467E-B273-118DA0159E9C}|Statistika\\Statistika.csproj|c:\\users\\lenovo\\desktop\\siana\\class9a\\statistika\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E043B179-7DF6-467E-B273-118DA0159E9C}|Statistika\\Statistika.csproj|solutionrelative:statistika\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2368E34-46AB-4E7F-BABD-966E73D398D1}|Semeistvo\\Semeistvo.csproj|c:\\users\\lenovo\\desktop\\siana\\class9a\\semeistvo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2368E34-46AB-4E7F-BABD-966E73D398D1}|Semeistvo\\Semeistvo.csproj|solutionrelative:semeistvo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2368E34-46AB-4E7F-BABD-966E73D398D1}|Semeistvo\\Semeistvo.csproj|c:\\users\\lenovo\\desktop\\siana\\class9a\\semeistvo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2368E34-46AB-4E7F-BABD-966E73D398D1}|Semeistvo\\Semeistvo.csproj|solutionrelative:semeistvo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087D1398-A120-4E4A-AE84-A84FB70DE123}|Dimashna\\Dimashna.csproj|c:\\users\\lenovo\\desktop\\siana\\class9a\\dimashna\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087D1398-A120-4E4A-AE84-A84FB70DE123}|Dimashna\\Dimashna.csproj|solutionrelative:dimashna\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087D1398-A120-4E4A-AE84-A84FB70DE123}|Dimashna\\Dimashna.csproj|c:\\users\\lenovo\\desktop\\siana\\class9a\\dimashna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087D1398-A120-4E4A-AE84-A84FB70DE123}|Dimashna\\Dimashna.csproj|solutionrelative:dimashna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\Class9a\\Statistika\\Person.cs",
+              "RelativeDocumentMoniker": "Statistika\\Person.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\Class9a\\Statistika\\Person.cs",
+              "RelativeToolTip": "Statistika\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:54:33.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\Class9a\\Statistika\\Program.cs",
+              "RelativeDocumentMoniker": "Statistika\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\Class9a\\Statistika\\Program.cs",
+              "RelativeToolTip": "Statistika\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:54:01.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\Class9a\\Semeistvo\\Person.cs",
+              "RelativeDocumentMoniker": "Semeistvo\\Person.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\Class9a\\Semeistvo\\Person.cs",
+              "RelativeToolTip": "Semeistvo\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:52:41.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\Class9a\\Semeistvo\\Program.cs",
+              "RelativeDocumentMoniker": "Semeistvo\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\Class9a\\Semeistvo\\Program.cs",
+              "RelativeToolTip": "Semeistvo\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:52:02.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\Class9a\\Dimashna\\Person.cs",
+              "RelativeDocumentMoniker": "Dimashna\\Person.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\Class9a\\Dimashna\\Person.cs",
+              "RelativeToolTip": "Dimashna\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:50:35.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\Class9a\\Dimashna\\Program.cs",
+              "RelativeDocumentMoniker": "Dimashna\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\Class9a\\Dimashna\\Program.cs",
+              "RelativeToolTip": "Dimashna\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:49:09.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
