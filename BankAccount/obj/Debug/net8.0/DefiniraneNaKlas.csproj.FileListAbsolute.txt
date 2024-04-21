@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\Siana\Domashna\BankAccount\bin\Debug\net8.0\DefiniraneNaKlas.exe
+C:\Users\lenovo\Desktop\Siana\Domashna\BankAccount\bin\Debug\net8.0\DefiniraneNaKlas.deps.json
+C:\Users\lenovo\Desktop\Siana\Domashna\BankAccount\bin\Debug\net8.0\DefiniraneNaKlas.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\Domashna\BankAccount\bin\Debug\net8.0\DefiniraneNaKlas.dll
+C:\Users\lenovo\Desktop\Siana\Domashna\BankAccount\bin\Debug\net8.0\DefiniraneNaKlas.pdb
+C:\Users\lenovo\Desktop\Siana\Domashna\BankAccount\obj\Debug\net8.0\DefiniraneNaKlas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\Domashna\BankAccount\obj\Debug\net8.0\DefiniraneNaKlas.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\Domashna\BankAccount\obj\Debug\net8.0\DefiniraneNaKlas.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\Domashna\BankAccount\obj\Debug\net8.0\DefiniraneNaKlas.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\Domashna\BankAccount\obj\Debug\net8.0\DefiniraneNaKlas.sourcelink.json
+C:\Users\lenovo\Desktop\Siana\Domashna\BankAccount\obj\Debug\net8.0\DefiniraneNaKlas.dll
+C:\Users\lenovo\Desktop\Siana\Domashna\BankAccount\obj\Debug\net8.0\refint\DefiniraneNaKlas.dll
+C:\Users\lenovo\Desktop\Siana\Domashna\BankAccount\obj\Debug\net8.0\DefiniraneNaKlas.pdb
+C:\Users\lenovo\Desktop\Siana\Domashna\BankAccount\obj\Debug\net8.0\DefiniraneNaKlas.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\Domashna\BankAccount\obj\Debug\net8.0\ref\DefiniraneNaKlas.dll
